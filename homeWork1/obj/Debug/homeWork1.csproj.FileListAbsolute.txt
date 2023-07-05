@@ -1,0 +1,8 @@
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\bin\Debug\homeWork1.exe.config
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\bin\Debug\homeWork1.exe
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\bin\Debug\homeWork1.pdb
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\obj\Debug\homeWork1.csproj.AssemblyReference.cache
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\obj\Debug\homeWork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\obj\Debug\homeWork1.csproj.CoreCompileInputs.cache
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\obj\Debug\homeWork1.exe
+C:\Users\kuler\source\repos\ConsoleApp1\homeWork1\obj\Debug\homeWork1.pdb
