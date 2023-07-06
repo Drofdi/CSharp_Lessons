@@ -1,0 +1,8 @@
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\bin\Debug\hWork2.exe.config
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\bin\Debug\hWork2.exe
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\bin\Debug\hWork2.pdb
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\obj\Debug\hWork2.csproj.AssemblyReference.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\obj\Debug\hWork2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\obj\Debug\hWork2.csproj.CoreCompileInputs.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\obj\Debug\hWork2.exe
+C:\Users\kuler\source\repos\ConsoleApp1\hWork2\obj\Debug\hWork2.pdb

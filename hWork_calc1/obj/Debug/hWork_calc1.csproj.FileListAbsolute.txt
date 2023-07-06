@@ -1,0 +1,8 @@
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\obj\Debug\hWork_calc1.csproj.AssemblyReference.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\obj\Debug\hWork_calc1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\obj\Debug\hWork_calc1.csproj.CoreCompileInputs.cache
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\bin\Debug\hWork_calc1.exe.config
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\bin\Debug\hWork_calc1.exe
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\bin\Debug\hWork_calc1.pdb
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\obj\Debug\hWork_calc1.exe
+C:\Users\kuler\source\repos\ConsoleApp1\hWork_calc1\obj\Debug\hWork_calc1.pdb

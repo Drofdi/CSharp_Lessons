@@ -16,7 +16,6 @@ namespace homeWork1
             int dollarsNum = int.Parse(dollars);
             int convertToRub = dollarsNum * 90;
             Console.WriteLine(dollars + "Dolllars = " + convertToRub + " Rubles");
-            Console.ReadLine();
         }
     }
 }
